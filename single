@@ -1,0 +1,437 @@
+
+<!DOCTYPE html>
+<html lang="zh_CN">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1" />
+  <meta name="keywords" content="错过你,错过你翻唱,老乌鸦_,错过你 - 老乌鸦_(#唱吧#录制),唱吧,玩音乐，就上唱吧！"/>
+  <meta name="description" content="错过你,老乌鸦_,错过你 - 老乌鸦_(#唱吧#录制),唱吧官方网站。唱吧是一款免费的音乐内容社群应用，漂亮美眉和帅哥都在用的K歌，连麦，弹唱，录唱，直播神器，包含自动混响和回声效果，提供伴奏歌词声音美化，支持上传音视频并同步分享至微信朋友圈QQ微博。"/>
+  <title>错过你 - 老乌鸦_ 唱吧,玩音乐，就上唱吧！</title>
+  <!--[if lte ie 8]>
+  <script>eval(function(ps, w){var ca = [],c = w._IE_UPG = {},i,l,p;for (i = 0, l = ps.length; i < l; i++){p = ps[i];c['_' + p] = w[p];ca.push(p + '=_IE_UPG._' + p);}return 'var ' + ca.join(',');} ('document self top parent alert setInterval clearInterval setTimeout clearTimeout'.split(' '), window));</script>
+  <![endif]-->
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="stylesheet" type="text/css" href="//res.cdn.changbaimg.com/!/css/views/user_work.1.css">
+  <link rel="stylesheet" type="text/css" href="//cb.cdn.changbaimg.com/css/emoji.css?ver=0.0.7">
+  <link rel="stylesheet" href="//res.cdn.changbaimg.com/!/share.js/1.0.2/css/share.min.css">
+</head>
+<body data-islogin="" data-workid="9z8acCtOdH3rGsVkWRqfKA" data-count="3">
+<img style="display: block; width: 0;height: 0;" src="https://aliimg.changba.com/cache/photo/650326450_200_200.jpg">
+<div id="doc">
+  <div id="hd">
+    <div class="widget-header-simple">
+      <div class="wrapper">
+        <a href="http://www.changba.com" class="logo" title="唱吧" style=" width: 61px; height: 31px;background-image: url(//res.cdn.changbaimg.com/-/bafb5d9b43c6580a/logo.png); background-size: cover;"></a>
+      </div>
+    </div>
+  </div>
+  <div id="bd">
+    <div class="m-content clearfix">
+      <div class="content-left">
+        <div class="widget-player">
+                    <div class="title">错过你 </div>
+                    <div class="play-wrapper">
+                        <div class="wrapper">
+              <div id="lrc_container"></div>
+              <div class="player-obj">
+                <img src="https://aliimg.changba.com/cache/photo/38528b71-8030-42c0-9fde-31f03d856666_640_640.jpg" alt="" />
+              </div>
+              <div class="controller clearfix">
+                <span class="play work-busy-btn" id="play-btn"></span>
+                <div class="status">
+                  <span class="time">
+                    <a class="curtime" id="work-played-bar"></a>
+                    <i class="icon-pointer" id="process-btn"></i>
+                  </span>
+                </div>
+                <div class="time-counter">
+                  <span class="time-passed">00:00</span>
+                  <span class="time-total">00:00</span>
+                </div>
+              </div>
+            </div>
+                        <div class="work-info clearfix">
+              <span class="audience info">
+                  <i></i>
+                  <em>104</em>
+              </span>
+              <span class="comment info">
+                <i></i>
+                <em>3</em>
+              </span>
+              <span class="presents info">
+                <i></i>
+                <em>8</em>
+              </span>
+              <span class="share info">
+                <i></i>
+                <em>3</em>
+              </span>
+              <span class="spl"></span>
+              <span class="export" id="export_song">
+                <i></i>
+                <em>导出</em>
+              </span>
+              <span class="fav" data-workid="9z8acCtOdH3rGsVkWRqfKA" data-status="0">
+                <i></i>
+                <em>收藏</em>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div class="widget-comment">
+          <div class="top-fixer"></div>
+          <div class="qr-code-tips">用唱吧扫描<a>二维码</a>，可以马上找到歌曲进行评论互动哦~
+            <div class="qr-code" id="qr-code">
+              <a class="qr"></a>
+              <span class="bottom-fixer"></span>
+            </div>
+          </div>
+          <div class="list-wrapper">
+            <div class="comment-list clearfix">
+                            <ul class="clearfix">
+                                <li class="items">
+                  <a class="poster" href="javascript:;">
+                                                                <img style="background-image: url(//cb.cdn.changbaimg.com/images/main_site/default_play_pic.jpg);background-size: 100% auto;" src="//cb.cdn.changbaimg.com/images/now/show/photo-default.png" data-src="https://aliimg.changba.com/cache/photo/923666991_200_200.jpg">
+                                                            </a>
+                  <div class="info">
+                    <span class="uinfo">
+                      <a class="uname twemoji" href="javascript:;">渣渣丛中一朵花🎉</a>
+                                                                  <i class="icon-grade1"></i>
+											                      <em class="post-time">2021-11-16</em>
+                    </span>
+                    <span class="content twemoji">
+                      成熟许多😊
+                    </span>
+                  </div>
+                </li>
+                              </ul>
+                          </div>
+          </div>
+                    <div class="controller">
+            <a class="prev" data-action="prev" style="visibility: hidden;"><</a>
+            <a class="next" data-action="next">></a>
+          </div>
+                  </div>
+      </div>
+      <div class="content-right">
+        <div class="uinfo-wrapper">
+          <div class="widget-userinfo-des">
+            <div class="basic-info clearfix">
+              <a class="poster" href="javascript:;">
+                <img src="https://aliimg.changba.com/cache/photo/650326450_200_200.jpg" alt="" />
+              </a>
+              <p class="uinfo">
+                <span class="ulevel">
+                  <a class="uname twemoji" style="display: inline!important;" href="javascript:;">老乌鸦_</a>
+                                                      <i class="icon-grade1"></i>
+									                </span>
+                <span class="focus-follower">
+                  <a class="focus" data-status="-1" data-userid="Y6DJFEjoM_eOhCIlpKXU2A"><i></i><em>关注</em></a>
+                  <a class="follower">
+                    <i class="icon"></i>
+                    <em class="nm">152</em>
+                  </a>
+                </span>
+              </p>
+                            <p class="intro-des">
+                <span class="top-fixer"></span>
+                <span class="des twemoji">
+                                    -                </span>
+              </p>
+                          </div>
+
+            <div class="social-share"></div>
+
+            <div class="download clearfix">
+              <a class="ios" link="http://changba.com/appstore.php" target="_blank"></a>
+              <a class="android" link="http://changba.com/redirect/latest_app.php" target="_blank"></a>
+            </div>
+          </div>
+        </div>
+        <div class="recomand-wrapper">
+          <div class="widget-recomand">
+            <div class="title">
+              <i class="icon"></i>
+                                          <span class="des">Ta的其他歌曲</span>
+            </div>
+            <div class="work-list">
+                            <div class="items">
+                <a href="https://changba.com/s/9z8acCtOdH3rGsVkWRqfKA?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="poster" target="_blank">
+                                    <img src="//cb.cdn.changbaimg.com/images/now/show/poster-default.png" data-src="https://aliimg.changba.com/cache/photo/38528b71-8030-42c0-9fde-31f03d856666_320_320.jpg" alt="">
+                                    <span class="cover"></span>
+                  <span class="play"></span>
+                </a>
+                <a href="https://changba.com/s/9z8acCtOdH3rGsVkWRqfKA?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="sname" target="_blank" title="错过你">错过你</a>
+                <a href="javascript:;" class="uname">
+                  <em class="name twemoji">老乌鸦_</em>
+                                                      <i class="icon-grade1"></i>
+                                  </a>
+              </div>
+                                          <div class="items">
+                <a href="https://changba.com/s/4cDag7UsJPtUYYevsj6rYA?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="poster" target="_blank">
+                                    <img src="//cb.cdn.changbaimg.com/images/now/show/poster-default.png" data-src="https://aliimg.changba.com/cache/photo/185a7181-e120-46de-b879-25eef54b51de_320_320.jpg" alt="">
+                                    <span class="cover"></span>
+                  <span class="play"></span>
+                </a>
+                <a href="https://changba.com/s/4cDag7UsJPtUYYevsj6rYA?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="sname" target="_blank" title="永不失联的爱【女声版】">永不失联的爱【女声版】</a>
+                <a href="javascript:;" class="uname">
+                  <em class="name twemoji">老乌鸦_</em>
+                                                      <i class="icon-grade1"></i>
+                                  </a>
+              </div>
+                                          <div class="items">
+                <a href="https://changba.com/s/LGrbgl6L0S8vD-cHxL9pIA?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="poster" target="_blank">
+                                    <img src="//cb.cdn.changbaimg.com/images/now/show/poster-default.png" data-src="https://aliimg.changba.com/cache/photo/984557b2-ec75-4b2a-999c-59f914b76383_320_320.jpg" alt="">
+                                    <span class="cover"></span>
+                  <span class="play"></span>
+                </a>
+                <a href="https://changba.com/s/LGrbgl6L0S8vD-cHxL9pIA?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="sname" target="_blank" title="大哥">大哥</a>
+                <a href="javascript:;" class="uname">
+                  <em class="name twemoji">老乌鸦_</em>
+                                                      <i class="icon-grade1"></i>
+                                  </a>
+              </div>
+                                          <div class="items">
+                <a href="https://changba.com/s/QN7gILdsVbM6FfJHlAwrmA?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="poster" target="_blank">
+                                    <img src="//cb.cdn.changbaimg.com/images/now/show/poster-default.png" data-src="https://aliimg.changba.com/cache/photo/966e0d31-a175-455b-a583-225cf14e8621_320_320.jpg" alt="">
+                                    <span class="cover"></span>
+                  <span class="play"></span>
+                </a>
+                <a href="https://changba.com/s/QN7gILdsVbM6FfJHlAwrmA?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="sname" target="_blank" title="祝我生日快乐">祝我生日快乐</a>
+                <a href="javascript:;" class="uname">
+                  <em class="name twemoji">老乌鸦_</em>
+                                                      <i class="icon-grade1"></i>
+                                  </a>
+              </div>
+                                          <div class="items">
+                <a href="https://changba.com/s/sFddABa_NkKRuFhUPnYxmA?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="poster" target="_blank">
+                                    <img src="//cb.cdn.changbaimg.com/images/now/show/poster-default.png" data-src="https://aliimg.changba.com/cache/photo/709ab7da-611a-4391-946e-021646846e50_320_320.jpg" alt="">
+                                    <span class="cover"></span>
+                  <span class="play"></span>
+                </a>
+                <a href="https://changba.com/s/sFddABa_NkKRuFhUPnYxmA?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="sname" target="_blank" title="祝你爱我到天荒地老">祝你爱我到天荒地老</a>
+                <a href="javascript:;" class="uname">
+                  <em class="name twemoji">老乌鸦_</em>
+                                                      <i class="icon-grade1"></i>
+                                  </a>
+              </div>
+                                          <div class="items">
+                <a href="https://changba.com/s/MCefGQDf9rCaOGl6PVYnWA?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="poster" target="_blank">
+                                    <img src="//cb.cdn.changbaimg.com/images/now/show/poster-default.png" data-src="https://aliimg.changba.com/cache/photo/13771956-a6e2-4535-b11d-c442803421cb_320_320.jpg" alt="">
+                                    <span class="cover"></span>
+                  <span class="play"></span>
+                </a>
+                <a href="https://changba.com/s/MCefGQDf9rCaOGl6PVYnWA?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="sname" target="_blank" title="安守本分【完美版】">安守本分【完美版】</a>
+                <a href="javascript:;" class="uname">
+                  <em class="name twemoji">老乌鸦_</em>
+                                                      <i class="icon-grade1"></i>
+                                  </a>
+              </div>
+                                          <div class="items">
+                <a href="https://changba.com/s/omyAnjNkBbgHR1CVW4mpMg?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="poster" target="_blank">
+                                    <img src="//cb.cdn.changbaimg.com/images/now/show/poster-default.png" data-src="https://aliimg.changba.com/cache/photo/331c393b-1b95-44f0-bc64-71390551591a_320_320.jpg" alt="">
+                                    <span class="cover"></span>
+                  <span class="play"></span>
+                </a>
+                <a href="https://changba.com/s/omyAnjNkBbgHR1CVW4mpMg?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="sname" target="_blank" title="二缺一【胡鸿钧、何雁诗】">二缺一【胡鸿钧、何雁诗】</a>
+                <a href="javascript:;" class="uname">
+                  <em class="name twemoji">老乌鸦_</em>
+                                                      <i class="icon-grade1"></i>
+                                  </a>
+              </div>
+                                          <div class="items">
+                <a href="https://changba.com/s/Tzi_2Jge3ol3O270Aumj4A?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="poster" target="_blank">
+                                    <img src="//cb.cdn.changbaimg.com/images/now/show/poster-default.png" data-src="https://aliimg.changba.com/cache/photo/8168d17c-5e33-4f86-9ca9-f5e8d2419da5_320_320.jpg" alt="">
+                                    <span class="cover"></span>
+                  <span class="play"></span>
+                </a>
+                <a href="https://changba.com/s/Tzi_2Jge3ol3O270Aumj4A?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="sname" target="_blank" title="心如止水">心如止水</a>
+                <a href="javascript:;" class="uname">
+                  <em class="name twemoji">老乌鸦_</em>
+                                                      <i class="icon-grade1"></i>
+                                  </a>
+              </div>
+                                          <div class="items">
+                <a href="https://changba.com/s/9hKttKjWEw0oIY0sa5SWSA?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="poster" target="_blank">
+                                    <img src="//cb.cdn.changbaimg.com/images/now/show/poster-default.png" data-src="https://aliimg.changba.com/cache/photo/4128a34e-fea5-4a6b-9158-bf69feecd586_320_320.jpg" alt="">
+                                    <span class="cover"></span>
+                  <span class="play"></span>
+                </a>
+                <a href="https://changba.com/s/9hKttKjWEw0oIY0sa5SWSA?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="sname" target="_blank" title="漫步人生路">漫步人生路</a>
+                <a href="javascript:;" class="uname">
+                  <em class="name twemoji">老乌鸦_</em>
+                                                      <i class="icon-grade1"></i>
+                                  </a>
+              </div>
+                                          <div class="items">
+                <a href="https://changba.com/s/O9rreiktTIRgVAqmUnrq6Q?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="poster" target="_blank">
+                                    <img src="//cb.cdn.changbaimg.com/images/now/show/poster-default.png" data-src="https://aliimg.changba.com/cache/photo/11273aea-2415-4d52-a7c4-9727d4bd8187_320_320.jpg" alt="">
+                                    <span class="cover"></span>
+                  <span class="play"></span>
+                </a>
+                <a href="https://changba.com/s/O9rreiktTIRgVAqmUnrq6Q?&amp;cbcode=Kxhsv6044ik&from=pcrecommend" class="sname" target="_blank" title="偏爱【电视剧《仙剑奇侠传三》插曲】">偏爱【电视剧《仙剑奇侠传三》插曲】</a>
+                <a href="javascript:;" class="uname">
+                  <em class="name twemoji">老乌鸦_</em>
+                                                      <i class="icon-grade1"></i>
+                                  </a>
+              </div>
+                                        </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="widget-download-layer">
+      <div class="cover">
+      </div>
+      <div class="wrapper">
+        <div class="title">唱吧Android版</div>
+        <span class="close"></span>
+        <div class="main">
+          <div class="qr-wrapper">
+            <a></a>
+            <span class="des">扫描二维码下载</span>
+          </div>
+          <div class="dl-to-pc">
+            <a href=""></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="ft">
+    <div class="public-footer">
+      <a target="_blank" href="/now/changba_unicom.php" class="public-footer-link">沃唱吧</a>|
+      <a target="_blank" href="https://changba.com/account/official_check.php" class="public-footer-link">重新设置密码</a>|
+      <a target="_blank" href="/now/help/helpcenter.php?typeid=1" class="public-footer-link">帮助中心</a>|
+      <a target="_blank" href="/now/contact.php" class="public-footer-link">联系我们</a>|
+      <a target="_blank" href="/now/joinus.php" class="public-footer-link">加入唱吧</a>|
+      <a target="_blank" href="http://about.58.com/fqz/index.html?utm_source=market&spm=b-31580022738699-pe-f-829.hao360_101" class="public-footer-link">防诈骗专栏</a>|
+      <a href="http://xwm.qs12315.com" target="_blank" class="public-footer-link">商品防伪查询</a>
+      <br/>
+      北京酷智科技有限公司 &copy;2017 changba.com | <a target="_blank" href="//cb.cdn.changbaimg.com/images/officialwebsite/icp.png?ver=1.0.1" class="public-footer-link">京ICP证110298</a> | <a target="_blank" href="https://beian.miit.gov.cn/" class="public-footer-link" rel="external nofollow">京ICP备11013291号-1</a> | 举报电话(24小时)：022-25782593<br/>
+      <a target="_blank" href="https://cb.cdn.changbaimg.com/images/officialwebsite/jingwangwen.png" class="public-footer-link">京网文[2015]0390-170号</a> | <a class="public-footer-link" href="http://cb.cdn.changbaimg.com/images/officialwebsite/yyxycxkz.jpg?ver=1.0.0">营业性演出许可证</a> |
+      <a class="public-footer-link" target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502025063"><img style="vertical-align: top;" src="//comp.cdn.changbaimg.com/images/officialwebsite/ghs.png" />京公网安备11010502025063号</a>
+      <a style="display: none;" target="_blank" class="public-footer-link" href="http://top100.cn/agreement.html">视听许可证0110538</a> |
+      <a id="___szfw_logo___" class="public-footer-link" href="https://credit.szfw.org/CX20170719035153320357.html" target="_blank">
+        <img src="//res.cdn.changbaimg.com/-/a19439064fd0b2a4/sf.png" border="0" style="height: 18px;vertical-align: top;" />
+      </a>
+    </div>
+  </div>
+</div>
+<div><div><div><audio autoplay="true" id="audio" loop="loop" preload="metadata"></audio></div></div></div>
+<div id="audio_container" style="display: none;"></div>
+<iframe style=" display: none;width: 400px; height: 335px; background-color: #fff;" id="exportFrame" allowtransparency="true" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</body>
+<script src="//cb.cdn.changbaimg.com/js/jquery-1.8.0.js"></script>
+<script src="//cb.cdn.changbaimg.com/js/widget/jquery.ui.widget.min.js"></script>
+<script src="//cb.cdn.changbaimg.com/assets/js/njwap/common/twemoji.js"></script>
+<script>
+  var commonObj = {};
+  commonObj.data = {
+    loginUrl: "https://changba.com/official_login.php?redirect=JTJGJTJGY2hhbmdiYS5jb20lMkZyZWRpcmVjdF9zb25nLnBocCUzRmVuY193b3JraWQlM0Q5ejhhY0N0T2RIM3JHc1ZrV1JxZktBJTI2c291cmNlJTNEdXNlcnBhZ2UlMjZzb3VyY2UlM0R1c2VycGFnZQ==",
+    newuserRe: ""
+  };
+  $(function(){
+    var getQueryStr = function(name, url) {
+      name = name.replace(/[\[]/, '\\\[').replace(/[\]]/, '\\\]');
+      if (!url) {
+        url = window.location.href;
+      }
+      var _regexS = '[\\?&]' + name + '=([^&#]*)';
+      var _regex = new RegExp(_regexS);
+      var _results = _regex.exec(url);
+
+      if(_results == null){
+        return '';
+      }else{
+        return decodeURIComponent(_results[1].replace(/\+/g, ' '));
+      }
+    }
+    var widgetTag = document.createElement('script');
+    widgetTag.src = '//cb.cdn.changbaimg.com/js/widget/jquery.ui.widget.min.js';
+    var scriptTag = document.createElement('script');
+    scriptTag.src = '//cb.cdn.changbaimg.com/js/widget/dialog.js?ver=1.0.1';
+    var linkTag = document.createElement('link');
+    linkTag.href = '//cb.cdn.changbaimg.com/css/widget/dialog.css';
+    linkTag.setAttribute('type', 'text/css');
+    linkTag.setAttribute('rel', 'stylesheet');
+    var auditTag = document.createElement('script');
+    auditTag.src = 'https://s4.cnzz.com/stat.php?id=1254909905&web_id=1254909905';
+    //$('head').append(widgetTag).append(scriptTag).append(linkTag).append(auditTag);
+    document.getElementsByTagName('head')[0].appendChild(scriptTag)
+    auditTag.onload = function() {
+      var _czc = window._czc || [];
+      _czc.push(["_setAccount", "1254909905"]);
+      _czc.push(["_trackEvent", getQueryStr('source'), 'loaded', '', 0, 'body']);
+    }
+    $('head').append(linkTag);
+    document.getElementsByTagName('head')[0].appendChild(auditTag);
+    if(location.href.indexOf('&from=pcrecommend') > 0) {
+      var scriptTag = document.createElement('script');
+      scriptTag.src = (document.location.protocol === 'http:'? 'http:' : 'https:') + '//s4.cnzz.com/stat.php?id=1257245197&web_id=1257245197';
+      $('head').append(scriptTag);
+    }
+    var hasClicked = false;
+    $('#export_song').on('click', function () {
+      if(!hasClicked){
+        $('#exportFrame').attr('src', '/now/export_song.php?workid=' + encodeURIComponent('9z8acCtOdH3rGsVkWRqfKA') + '&isvideo=0').dialog({title: '导出歌曲'});
+        hasClicked = true;
+      }
+            window.location.href = "/official_login.php?redirect=JTJGJTJGY2hhbmdiYS5jb20lMkZyZWRpcmVjdF9zb25nLnBocCUzRmVuY193b3JraWQlM0Q5ejhhY0N0T2RIM3JHc1ZrV1JxZktBJTI2c291cmNlJTNEdXNlcnBhZ2UlMjZzb3VyY2UlM0R1c2VycGFnZQ==";
+          });
+  });
+        commonObj.url = 'hiHU3Ij0ZCKCnU5G77znpW0zZY/qz6gxbc16fd18/Iu0YII6m7ltcN8oJJjlLwnqcrCn1aSy81JgxEO+5pJtf/sRl8OGlXDU30W2X8372PODfKapSZwjVbMb65y7NfAN6qFMaPTN/XpmmGPeTHuimQ==';
+    </script>
+
+<script src="//res.cdn.changbaimg.com/-/66d79be113ff2e1c/jquery.jplayer.js"></script>
+<script src="//res.cdn.changbaimg.com/-/09be85081ab5ba79/crypto-js.js"></script>
+<script src="//res.cdn.changbaimg.com/-/062ff88cbfb4d092/user_work_jplayer.js"></script>
+<script src="//res.cdn.changbaimg.com/!/share.js/1.0.2/js/jquery.share.min.js"></script>
+<script>
+  $('.social-share').share({
+    title: '错过你 (#唱吧#录制)',
+    description: '大家一起来唱吧围观一下Ta吧!',
+    image: "https://aliimg.changba.com/cache/photo/650326450_320_320.jpg",
+    sites: ['weibo', 'qzone', 'wechat', 'qq', 'douban'],
+    wechatQrcodeTitle: "微信扫一扫：分享",
+    wechatQrcodeHelper: '<p>微信里点“发现”，扫一下</p><p>二维码便可将本文分享至朋友圈。</p>'
+  });
+</script>
+<script>
+  (function() {
+    var bp = document.createElement('script');
+    bp.src = window.location.protocol === 'https:' ? 'https://zz.bdstatic.com/linksubmit/push.js' : 'http://push.zhanzhang.baidu.com/push.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(bp, s);
+  })();
+</script>
+<!-- 阿里云arms统计 start -->
+<script>
+	window.__bl = {
+		config: {
+			pid:"fgw29hkkce@a8e8dceb20f33ee",
+			appType:"web",
+			imgUrl:"https://arms-retcode.aliyuncs.com/r.png?",
+			sendResource:true,
+			enableLinkTrace:true,
+			behavior:true,
+			parseHash: (hash) => {
+				var page = hash ? hash.replace(/^#/, '').replace(/\?.*$/, '') : '';
+				return page || location.pathname;
+			},
+			ignore: {
+				ignoreErrors: [
+					/^Script error\.?$/
+				]
+			},
+			c2: '9z8acCtOdH3rGsVkWRqfKA' || '',
+			tag: '唱吧作品页-PC'
+		}
+	}
+</script>
+<script type="text/javascript" src="https://retcode.alicdn.com/retcode/bl.js" crossorigin></script>
+<!-- 阿里云arms统计 end -->
+</html>
